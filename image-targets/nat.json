@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/nat_luminance.jpg",
+  "metadata": null,
+  "name": "nat",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 92,
+    "width": 1248,
+    "height": 1664,
+    "isRotated": false,
+    "originalWidth": 1248,
+    "originalHeight": 1848
+  },
+  "resources": {
+    "originalImage": "nat_original.jpg",
+    "croppedImage": "nat_cropped.jpg",
+    "thumbnailImage": "nat_thumbnail.jpg",
+    "luminanceImage": "nat_luminance.jpg"
+  },
+  "created": 1773797917199,
+  "updated": 1773797917199
+}
